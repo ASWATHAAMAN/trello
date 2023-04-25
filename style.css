@@ -184,3 +184,27 @@ body {
   font-size: 35px;
   font-weight: bolder;
 }
+
+
+.boxes1{
+  width: 26%;
+  margin: 40px;
+  
+ 
+}
+
+.first2{
+  font-size: 25px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #000;
+}
+
+
+.boxes1 .first{
+  
+  color: #000;
+}
+
+
+
