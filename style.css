@@ -1,6 +1,7 @@
 body {
   font-family: "Lato", sans-serif;
   
+  
 }
 .container {
   width: 1250px;
@@ -306,6 +307,49 @@ body {
 }
 .connecting:hover{
  background-color: rgb(247, 244, 244);
+}
+.total{
+   background-color: rgb(29, 137, 246);
+}
+.compress_file{
+  box-sizing: border-box;
+  background-color:white;
+  margin: 50px 80px;
+  padding: 30px 30px;
+  border-radius: 8px;
+  
+}
+
+.trello_img{
+width: 55%;
+height: auto;
+}
+.img_para{
+  width: 35%;
+  margin: 3rem;
+  margin-top: 10px;
+}
+.img_head{
+  margin-left: 2rem;
+  padding-bottom: 10px;
+}
+.img_paragraph{
+  font-size: 18px;
+  line-height: 30px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  font-weight:500;
+  word-spacing: 1px;
+  letter-spacing: 1px;
+  
+}
+.img_anch{
+  font-size: 20px;
+  color: rgb(0, 82, 204);
+  
+}
+.img_anch:hover{
+color: rgb(10, 71, 164);
 }
 
 
