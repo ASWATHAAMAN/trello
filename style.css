@@ -332,6 +332,9 @@ height: auto;
 .img_head{
   margin-left: 2rem;
   padding-bottom: 10px;
+  font-size: 14px;
+   word-spacing: 1px;
+  
 }
 .img_paragraph{
   font-size: 18px;
@@ -351,6 +354,58 @@ height: auto;
 .img_anch:hover{
 color: rgb(10, 71, 164);
 }
+
+
+
+.trello_img2{
+  width: 55%;
+  height: 340px;
+  padding-top: 30px;
+}
+.compress_file2{
+  box-sizing: border-box;
+  background-color:white;
+  margin: 50px 80px;
+  padding: 25px 30px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border-radius: 8px;
+  
+}
+.img_para2{
+  width: 35%;
+  margin: 3rem;
+  margin-top: 60px;
+}
+.img_head2{
+  margin-left: 2rem;
+  font-size: 14px;
+  word-spacing: 1px;
+  letter-spacing: 1px;
+  padding-bottom: 20px;
+  
+}
+.img_paragraph2{
+  font-size: 19px;
+  line-height: 30px;
+  padding-bottom: 20px;
+  
+  font-weight:500;
+  word-spacing: 1px;
+   
+}
+.img_anch2{
+  font-size: 20px;
+  color: rgb(0, 82, 204);
+  padding-top: 0px;
+ 
+  
+}
+.img_anch2:hover{
+color: rgb(10, 71, 164);
+}
+
 
 
 
